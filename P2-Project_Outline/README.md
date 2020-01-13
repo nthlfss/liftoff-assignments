@@ -15,7 +15,10 @@ Add Customer and Car: User will be able to add new customers to the database, wh
 Add Repair: User will be able to add descriptions of repairs done to each customer vehicle  
 Search Customer and Car: User will be able to look up specific customer details to review past repairs done  
 ### Technologies
-C# and .NET framework
+C#  
+Visual Studio
+ASp .NET Core MVC
+SQL
 ### What I'll Have to Learn
 This project will help me get more practice with databases and tables, and specifically how to manage relationships between these tables
 ### Project Tracker
