@@ -8,10 +8,10 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-* https://github.com/nthlfss/liftoff-assignments/blob/master/P3-Project_Planning/images/wframe1.pdf
-* https://github.com/nthlfss/liftoff-assignments/blob/master/P3-Project_Planning/images/wframe2.pdf
-* https://github.com/nthlfss/liftoff-assignments/blob/master/P3-Project_Planning/images/wframe3.pdf
-* https://github.com/nthlfss/liftoff-assignments/blob/master/P3-Project_Planning/images/wframe4.pdf
+* https://github.com/nthlfss/liftoff-assignments/blob/master/P3-Project_Planning/Images/wframe1.pdf
+* https://github.com/nthlfss/liftoff-assignments/blob/master/P3-Project_Planning/Images/wframe2.pdf
+* https://github.com/nthlfss/liftoff-assignments/blob/master/P3-Project_Planning/Images/wframe3.pdf
+* https://github.com/nthlfss/liftoff-assignments/blob/master/P3-Project_Planning/Images/wframe4.pdf
 
 ### Project Tracker
 
