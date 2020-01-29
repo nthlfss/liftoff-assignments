@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume and provide links to you
 https://github.com/nthlfss
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.https://www.linkedin.com/in/nathalia-l-49b074196/
+https://www.linkedin.com/in/nathalia-l-49b074196/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
